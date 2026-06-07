@@ -1,3 +1,4 @@
 Archivo base
-Cambio 2 realizado en la rama MAIN de forma local.
-Texto A desde Main
+Cambio 2 realizado en MAIN y modificado en DEV.
+Texto A desde Main.
+Texto B desde Dev.
